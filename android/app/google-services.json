@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "674254794395",
+    "firebase_url": "https://ijas-62282-default-rtdb.firebaseio.com",
+    "project_id": "ijas-62282",
+    "storage_bucket": "ijas-62282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674254794395:android:99ed914b06ebd96a1de03e",
+        "android_client_info": {
+          "package_name": "com.raga.raga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEr_haSr5TLSM6lhGF7_BV-0ldD62RKwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
