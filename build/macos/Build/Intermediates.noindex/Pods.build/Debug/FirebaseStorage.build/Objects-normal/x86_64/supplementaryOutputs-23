@@ -1,0 +1,18 @@
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTaskState.swift":
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTaskState.swiftdeps"
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTaskState.d"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTaskState.o"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTaskState.swiftconstvalues"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTaskState.dia"
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift":
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTokenAuthorizer.swiftdeps"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTokenAuthorizer.swiftconstvalues"
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTokenAuthorizer.d"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTokenAuthorizer.dia"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTokenAuthorizer.o"
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift":
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageUpdateMetadataTask.dia"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageUpdateMetadataTask.swiftconstvalues"
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageUpdateMetadataTask.swiftdeps"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageUpdateMetadataTask.o"
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageUpdateMetadataTask.d"

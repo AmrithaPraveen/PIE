@@ -1,0 +1,18 @@
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift":
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.dia"
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.d"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.o"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.swiftconstvalues"
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetMetadataTask.swiftdeps"
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift":
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.d"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.swiftconstvalues"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.o"
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.swiftdeps"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListTask.dia"
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift":
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.swiftdeps"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.dia"
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.d"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.swiftconstvalues"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageListResult.o"

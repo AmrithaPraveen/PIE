@@ -1,0 +1,18 @@
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift":
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.d"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.o"
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.swiftdeps"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.dia"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageDownloadTask.swiftconstvalues"
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift":
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.o"
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.d"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.swiftconstvalues"
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.swiftdeps"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageGetDownloadURLTask.dia"
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift":
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageError.swiftconstvalues"
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageError.swiftdeps"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageError.dia"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageError.o"
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageError.d"

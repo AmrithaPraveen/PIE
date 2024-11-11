@@ -1,0 +1,18 @@
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift":
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Result.swiftconstvalues"
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Result.d"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Result.o"
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Result.swiftdeps"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Result.dia"
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift":
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Storage.o"
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Storage.d"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Storage.swiftconstvalues"
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Storage.swiftdeps"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/Storage.dia"
+"/Users/amrithapraveen/Downloads/Raga/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift":
+  dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/AsyncAwait.d"
+  diagnostics: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/AsyncAwait.dia"
+  swift-dependencies: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/AsyncAwait.swiftdeps"
+  const-values: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/AsyncAwait.swiftconstvalues"
+  object: "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/AsyncAwait.o"

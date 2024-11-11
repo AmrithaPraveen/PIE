@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet-master.dia",
+    "emit-module-dependencies" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet-master-emit-module.dia",
+    "swift-dependencies" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet-master.swiftdeps"
+  },
+  "/Users/amrithapraveen/Downloads/Raga/macos/Pods/OrderedSet/Sources/OrderedSet.swift" : {
+    "const-values" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet.swiftconstvalues",
+    "dependencies" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet.d",
+    "diagnostics" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet.o",
+    "llvm-bc" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet.bc",
+    "object" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet.o",
+    "swift-dependencies" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet.swiftdeps",
+    "swiftmodule" : "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/Objects-normal/x86_64/OrderedSet~partial.swiftmodule"
+  }
+}

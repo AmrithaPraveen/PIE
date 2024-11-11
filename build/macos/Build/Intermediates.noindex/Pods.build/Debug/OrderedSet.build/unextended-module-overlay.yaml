@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Products/Debug/OrderedSet/OrderedSet.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Products/Debug/OrderedSet/OrderedSet.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "OrderedSet-Swift.h",
+      'external-contents': "/Users/amrithapraveen/Downloads/Raga/build/macos/Build/Intermediates.noindex/Pods.build/Debug/OrderedSet.build/unextended-interface-header.h",
+    }]
+    }]
+}
